@@ -73,7 +73,7 @@ Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumların
 ## Ekran Görüntüleri
 
 ### Giris Yap
-![Giris](ScreenShots/giris_yapma.png) 
+![Giris_yapma](ScreenShots/giris_yapma.png) 
 
 *Kimlik doğrulama sürecinin gerçekleştirildiği kullanıcı giriş ekranı. Kullanıcı adı/e-posta ve şifre bilgileri girilerek sisteme erişim sağlanır.*
 
