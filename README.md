@@ -72,15 +72,31 @@ Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumların
 
 ## Ekran Görüntüleri
 
+### Giris Yap
+![Giris](ScreenShots/giris_yapma.png) 
+
+*Kimlik doğrulama sürecinin gerçekleştirildiği kullanıcı giriş ekranı. Kullanıcı adı/e-posta ve şifre bilgileri girilerek sisteme erişim sağlanır.*
+
+### Kayıt Ol
+![Kayit](ScreenShots/kayit_ol.png) 
+
+*Yeni kullanıcıların sisteme kayıt işlemini gerçekleştirdiği arayüz. Gerekli alanlar: kullanıcı adı, e-posta, şifre ve şifre doğrulama.*
+
 ### Ana Sayfa
-![Ana Sayfa](screenshots/homepage.png)
+![Ana Sayfa](ScreenShots/anasayfa.png)
 
-*Sistemin ana sayfası, kullanıcıların giriş yapabileceği ve kayıt olabileceği sayfa*
+*Kullanıcıların sisteme erişim sağlamak için "Giriş Yap" veya "Kayıt Ol" işlemlerini başlatabildiği, sistem özelliklerinin özetlendiği giriş ekranıdır.*
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Panel
+![panel](ScreenShots/panel.png)
 
-*Hayvan yönetimi dashboard'u, istatistikler ve hayvan kartları*
+*Hayvanlara ait tüm kayıtların yönetildiği kontrol paneli. İstatistik kutucukları (sağlık durumu, toplam hayvan sayısı vb.) ve kart tabanlı hayvan bilgileri görüntülenir. Ayrıca düzenleme ve silme işlemleri yapılabilir.*
+
+### Hayvan Ekleme
+![Hayvan_ekle](ScreenShots/hayvan_ekle.png) 
+
+*Yeni bir hayvan kaydının sisteme eklendiği form ekranı. Hayvana ait temel bilgiler (isim, tür, yaş, kilo, sağlık durumu), yaşam alanı, beslenme programı ve özel notlar bu form üzerinden girilir.*
+
 
 ## Demo Video
 
