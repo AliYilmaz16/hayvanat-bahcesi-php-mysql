@@ -1,5 +1,5 @@
 #
- - [Chatgpt Linki](https://chatgpt.com/share/684ed62c-b8dc-8004-9e62-04db5a304dcc)
+ - [ChatGPT Linki](https://chatgpt.com/share/684ed62c-b8dc-8004-9e62-04db5a304dcc)
 #
 Şunu dedin:
 foreign key constraint fails hatası alıyorum neden olabilir
