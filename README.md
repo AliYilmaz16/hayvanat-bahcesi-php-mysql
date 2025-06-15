@@ -1,6 +1,6 @@
 # Hayvanat Bahçesi Yönetim Sistemi
 
-Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumlarını, beslenme programlarını ve yaşam alanlarını yönetmek için geliştirilmiş web tabanlı bir uygulamadır.
+Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumlarını, beslenme programlarını ve yaşam alanlarını yönetmek için geliştirilmiş web tabanlı bir uygulamadır.[LİNK](http://95.130.171.20/~st22360859037/)
 
 ## Özellikler
 
@@ -101,7 +101,7 @@ Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumların
 ## Demo Video
 
 Uygulamanın çalışır halini görmek için demo videosunu izleyebilirsiniz:
-[Demo Video Linki](https://youtube.com/watch?v=demo-video-link)
+[Demo Video Linki](https://youtu.be/BIDU2iQhnhc)
 
 
 ## Güvenlik Özellikleri
