@@ -103,22 +103,6 @@ Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumların
 Uygulamanın çalışır halini görmek için demo videosunu izleyebilirsiniz:
 [Demo Video Linki](https://youtube.com/watch?v=demo-video-link)
 
-## Dosya Yapısı
-
-```
-hayvanat-bahcesi-php-mysql/
-├── config.php              # Veritabanı konfigürasyonu
-├── index.php              # Ana sayfa
-├── giris.php               # Giriş sayfası
-├── kayit.php               # Kayıt sayfası
-├── panel.php               # Ana kontrol paneli
-├── hayvan_ekle.php         # Hayvan ekleme
-├── hayvan_duzenle.php      # Hayvan düzenleme
-├── cikis.php               # Çıkış işlemi
-├── database.sql            # Veritabanı SQL dosyası
-├── README.md               # Proje dökümantasyonu
-└── AI.md                   # AI sohbet geçmişi
-```
 
 ## Güvenlik Özellikleri
 
