@@ -106,7 +106,7 @@ Uygulamanın çalışır halini görmek için demo videosunu izleyebilirsiniz:
 ## Dosya Yapısı
 
 ```
-zoo-management-system/
+hayvanat-bahcesi-php-mysql/
 ├── config.php              # Veritabanı konfigürasyonu
 ├── index.php              # Ana sayfa
 ├── giris.php               # Giriş sayfası
