@@ -103,15 +103,6 @@ Bu proje, bir hayvanat bahçesindeki hayvanların takibini, sağlık durumların
 Uygulamanın çalışır halini görmek için demo videosunu izleyebilirsiniz:
 [Demo Video Linki](https://youtu.be/BIDU2iQhnhc)
 
-
-## Güvenlik Özellikleri
-
-- **Şifre Güvenliği**: Tüm şifreler `password_hash()` fonksiyonu ile hash'lenir
-- **SQL Injection Koruması**: Prepared statements kullanılır
-- **XSS Koruması**: Tüm çıktılar `htmlspecialchars()` ile filtrelenir
-- **Session Güvenliği**: Güvenli oturum yönetimi
-- **Input Validasyonu**: Tüm form girişleri doğrulanır
-
 ## Kullanım
 
 1. **Kayıt Olun**: Sisteme kayıt olmak için `kayit.php` sayfasını kullanın
